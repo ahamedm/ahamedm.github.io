@@ -1,0 +1,21 @@
+# Setup
+title:               Ahamed's Tech Log
+tagline:             'Trial n Errors, Technical'
+description: 'Description Goes Here'
+url:                 https://ahamedm.github.io
+baseurl:             ''
+paginate:            2
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Ahamed Mustafa
+  url:               https://ahamedm.github.io
+  email:             blackney83@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
