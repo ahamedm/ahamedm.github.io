@@ -1,17 +1,17 @@
 # Setup
-title:               Ahamed's Tech Log
-tagline:             'Trial n Errors, Technical'
-description: 'Description Goes Here'
+title:               Ahamed's Blog
+tagline:             'Technology, IT Practices , Trials & Errors'
+description: 'Personal Views & Rant on Technology & Practices,  with Logic'
 url:                 https://ahamedm.github.io
 baseurl:             ''
-paginate:            2
+paginate:            4
 permalink:           pretty
 
 # About/contact
 author:
   name:              Ahamed Mustafa
   url:               https://ahamedm.github.io
-  email:             blackney83@gmail.com
+  email:             ahamedm@outlook.com
 
 # Gems
 plugins:
