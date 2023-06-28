@@ -4,7 +4,7 @@ title: About
 ---
 ## About Me
 
-I'm Ahamed Mustafa. I am an Indian who started a career in software industry with PL/SQL reports and eventually got into Programming for application development. I try to stay in the continuum between Design & Implementation as a Solutions Architect at work and try hard to strike a balance between work & life.
+I'm Ahamed Mustafa. Right after my B.Tech (IT), I started a career in software industry with a Services company working in PL/SQL and Cognos reports.Eventually I got into Java Programming for application development and then in to Design & Architecture. I try to stay in the continuum between Design & Development as a Solutions Architect at work and try hard to strike a balance between work & life.
 
 I am comfortable with:
 
