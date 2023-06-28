@@ -4,26 +4,30 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  I'm Ahamed Mustafa. I am an Indian who started a career in software industry with PL/SQL reports and eventually got into Programming for application development. I try to stay in the continuum between Design & Implementation as a Solutions Architect at work and try hard to strike a balance between work & life.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## About Me
 
-There are currently two themes built on Poole:
+I'm Ahamed Mustafa. I am an Indian who started a career in software industry with PL/SQL reports and eventually got into Programming for application development. I try to stay in the continuum between Design & Implementation as a Solutions Architect at work and try hard to strike a balance between work & life.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I am comfortable with:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Software Architecture
+* Agile, DevOps
+* Java, Spring Framework
+* Docker, Kubernetes
+* AWS, Azure
 
-## Setup
+## About the Blog
 
-Some fun facts about the setup of this project include:
+This blog:
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* Is about technology concepts I read, apply and find interesting
+* Is opinion about the decisions I come across in applying the technology
+* Is ranting on some things: technology and practices, in general
+* Edited with [Visual Studio Code](https://code.visualstudio.com/)
 
 Thanks for reading!
+
+> Disclaimer: The opinions expressed herein are my own personal opinions and DO NOT represent my Employer’s view in any way.
